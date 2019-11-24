@@ -1,0 +1,45 @@
+
+
+body {
+    background: rgba(68, 30, 240, 0.767);
+    font: normal 15pt Arial;
+}
+header {
+    text-align: center;
+    margin: 10px;
+    color: white;
+    font: normal 15pt Arial;
+}
+
+section {
+    width: 500px;
+    border-radius: 10px;
+    background: white;
+    margin: auto;
+    padding: 30px;
+}
+#botao {
+    text-align: center;
+}
+
+.botaoEviar {
+    width: 100px;
+    padding: 10px;
+    background:rgba(68, 30, 240, 0.767);
+    color: white;
+    font: normal 10pt Arial;
+    border-radius: 25px;
+    border: none;
+}
+.botaoEviar:hover {
+    color: blue;
+    border: 1px solid blue;
+    background: white;
+    transition: 100ms;
+}
+
+footer p {
+    text-align: center;
+    color: rgb(165, 162, 162);
+   
+}
